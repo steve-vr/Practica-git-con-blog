@@ -3,10 +3,8 @@ detallada de la pagina principal
 
 1.-Index de la pagina.
 
------------------------------
-2.-En esta parte estamos agregando el 
-    -header
-    -contenido de la pagina
-    -footer
+Agrege esto mpor que estoy usando git checkout
 
+---------
+agrege esto
 Continuara.....
